@@ -97,3 +97,8 @@ This project involves building and evaluating a hierarchical classification mode
 - **Validation Loss**: 2.3476
 - **Top-3 Accuracy**: 73.15%
 
+
+## Contributors
+- Sneh Shah
+- Niral Shekhat
+
