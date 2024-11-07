@@ -82,20 +82,20 @@ This project involves building and evaluating a hierarchical classification mode
   
 
   
-# Model Evaluation Summary
+# Model Evaluation Summary (Best accuracy)
 
 ## Category Metrics
 
-- **Accuracy**: 70.67%
-- **Validation Loss**: 1.2573
-- **Top-3 Accuracy**: 92.38%
+- **Accuracy**: 74.13%
+- **Validation Loss**: 0.7548
+- **Top-3 Accuracy**: 94.83%
 
 
 ## Sub-category Metrics
 
-- **Accuracy**: 48.77%
-- **Validation Loss**: 2.3476
-- **Top-3 Accuracy**: 73.15%
+- **Accuracy**: 53.90%
+- **Validation Loss**: 1.4238
+- **Top-3 Accuracy**: 94.83%
 
 
 ## Contributors
